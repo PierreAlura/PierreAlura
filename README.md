@@ -1,4 +1,14 @@
-### Hi there 👋
+Boas Vindas ao meu perfil 💙💙
+
+•Meu nome é Pierre Santos
+
+•Estou me desenvolvendo na linguagem Javascript
+
+•Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+Você pode entrar em contato comigo 📪
+
+00001103341960sp@al.educacao.sp.gov.br
 
 <!--
 **PierreAlura/PierreAlura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
